@@ -1,5 +1,6 @@
 # Diary_2
 
+<pre>
 #include<iostream>
 #include<fstream>
 #include<string.h>
@@ -149,3 +150,4 @@ int main()
 		}
 		while(A.again());
 	} 
+</pre>
